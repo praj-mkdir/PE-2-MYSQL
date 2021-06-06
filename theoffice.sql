@@ -1,3 +1,4 @@
+-- this is just for learning purpose for my professional elective 2 
 CREATE TABLE employee (
   emp_id INT PRIMARY KEY,
   first_name VARCHAR(40),
